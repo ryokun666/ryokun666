@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryokun666&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryokun666&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryokun666&theme=graywhite&utcOffset=8)
-![](https://raw.githubusercontent.com/ユーザー名/リポジトリ名/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/ryokun666/ryokun666/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
